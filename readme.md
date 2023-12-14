@@ -8,13 +8,7 @@ Happy coding! 🚀
 
 ## <img src="https://raw.githubusercontent.com/fredojunio/fredojunio/main/assets/mail.gif" width="30px"> Contact me
 
-[![Linkedin](https://img.shields.io/badge/-Alfredo_Junio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jk/) [![Instagram](https://img.shields.io/badge/-fredojunio-white?style=flat&logo=Instagram&logoColor=white&color=8134AF)](https://www.instagram.com/fredojunio/) [![wakatime](https://wakatime.com/badge/user/89a16f34-3671-4332-a732-eb4452ba7b84.svg)](https://wakatime.com/@fredojunio)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alfredo-jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredo-jk" height="30" width="40" /></a>
-<a href="https://instagram.com/fredojunio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fredojunio" height="30" width="40" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-Alfredo_Junio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jk/) [![Instagram](https://img.shields.io/badge/-fredojunio-white?style=flat&logo=Instagram&logoColor=white&color=8134AF)](https://www.instagram.com/fredojunio/) [![wakatime](https://wakatime.com/badge/user/018c6700-c4d3-47ca-a481-33c8f12cf93a/project/018c670a-ddbc-4014-9fd3-e91dae81dbf6.svg)](https://wakatime.com/@fredojunio)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
