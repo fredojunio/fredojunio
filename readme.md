@@ -16,7 +16,7 @@ Happy coding! 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredojunio&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredojunio&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)]
 
 
 
