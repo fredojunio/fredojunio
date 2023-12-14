@@ -8,7 +8,7 @@ Happy coding! 🚀
 
 ## <img src="https://raw.githubusercontent.com/fredojunio/fredojunio/main/assets/mail.gif" width="30px"> Contact me
 
-[![Linkedin](https://img.shields.io/badge/-Alfredo_Junio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jk/) [![Instagram](https://img.shields.io/badge/-fredojunio-white?style=flat&logo=Instagram&logoColor=white&color=8134AF)](https://www.instagram.com/fredojunio/) [![wakatime](https://wakatime.com/badge/user/018c6700-c4d3-47ca-a481-33c8f12cf93a/project/018c670a-ddbc-4014-9fd3-e91dae81dbf6.svg)](https://wakatime.com/@fredojunio)
+[![Linkedin](https://img.shields.io/badge/-Alfredo_Junio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-jk/) [![Instagram](https://img.shields.io/badge/-fredojunio-white?style=flat&logo=Instagram&logoColor=white&color=8134AF)](https://www.instagram.com/fredojunio/) [![wakatime](https://wakatime.com/badge/user/018c6700-c4d3-47ca-a481-33c8f12cf93a/project/018c670a-ddbc-4014-9fd3-e91dae81dbf6.svg)](https://wakatime.com/@fredojunio) [![](https://visitcount.itsvg.in/api?id=fredojunio&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="30"> Languages/Tools
 
