@@ -19,5 +19,5 @@ Happy coding! 🚀
 <!-- If you are the owner of any of the assets that I use here and would like for me to remove them, please contact me through my e-mail. -->
 <!-- Waving Hand Gif: https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif -->
 <!-- Mail Gif: http://static.skaip.org/img/emoticons/180x180/f6fcff/mail.gif -->
-<!-- Code Gif: https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1 -->
+<!-- Code Gif: https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o -->
 <!-- Icons: https://github.com/devicons/devicon -->
