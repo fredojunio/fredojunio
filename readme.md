@@ -1,6 +1,6 @@
 # Kon'nichiwa <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"> !.
 
-My friend call me Fredo, Edo, Alfred, or whatever. As a junior developer, I am actively working to enhance my skills in frontend development, with a particular emphasis on the Flutter framework..
+My friend call me Fredo, Edo, Alfred, or whatever. As a junior developer, I am actively working to enhance my skills in frontend development by building dynamic apps with a focus on Flutter framework...
 
 📫 Let's connect! Feel free to reach out if you share an interest in Flutter, mobile development, or if you just want to chat about the latest advancements in the tech world.
 
@@ -16,7 +16,7 @@ Happy coding! 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredojunio&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
@@ -26,5 +26,3 @@ Happy coding! 🚀
 <!-- If you are the owner of any of the assets that I use here and would like for me to remove them, please contact me through my e-mail. -->
 <!-- Waving Hand Gif: https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif -->
 <!-- Mail Gif: http://static.skaip.org/img/emoticons/180x180/f6fcff/mail.gif -->
-<!-- Code Gif: https://giphy.com/gifs/code-software-programming-DLz5I4BGyRSOlbSC3o -->
-<!-- Icons: https://github.com/devicons/devicon -->
