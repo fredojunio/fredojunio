@@ -14,9 +14,7 @@ Happy coding! 🚀
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fredojunio&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="160" />
 
 
 
