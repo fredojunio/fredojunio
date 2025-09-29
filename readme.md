@@ -1,6 +1,6 @@
 # Kon'nichiwa <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"> !.
 
-My friend call me Fredo, Edo, Alfred, or whatever. As a junior developer, I am actively working to enhance my skills in frontend development by building dynamic apps with a focus on Flutter framework...
+My friend call me Fredo, Edo, Al, or whatever. Currently, im expanding my horizons beyond the 9-to-5 stack. I'm currently diving deep into the React & Next.js ecosystem, building projects and mastering modern web development. Open to collaborations!
 
 📫 Let's connect! Feel free to reach out if you share an interest in Flutter, mobile development, or if you just want to chat about the latest advancements in the tech world.
 
